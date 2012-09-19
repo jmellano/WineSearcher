@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Renseigner le nom du vin et l\'année</string>
+    <string name="app_name">WineSearcher</string>
+    <string name="Colonne_Nom_Vin"><u>Nom du vin</u></string>
+    <string name="Colonne_Annee_Vin"><u>Annee</u></string>
+   	<string name="Colonne_Prix_Vin"><u>Prix Moyen</u></string>
+   	
+   	
+   	    <string-array name="accordion_sections">
+        <item>Section A</item>
+        <item>Section B</item>
+        <item>Section C</item>
+        <item>Section D</item>
+        <item>Section E</item>
+    </string-array>
+</resources>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:TextField" id="5" x="32" y="56" width="177" text="WineName" measuredWidth="177" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="6" x="232" y="56" width="89" text="WineYear" measuredWidth="89" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="10" x="32" y="88" width="193" text="Wine Name" measuredWidth="193" measuredHeight="23" background="#cccccc" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="11" x="216" y="88" width="129" text="Wine Year" measuredWidth="129" measuredHeight="23" background="#cccccc" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="12" x="336" y="88" width="41" text="Price" measuredWidth="41" measuredHeight="23" background="#cccccc" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="13" x="56" y="120" width="144" text="Smith" measuredWidth="144" measuredHeight="23" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="14" x="216" y="120" width="88" text="2002" measuredWidth="88" measuredHeight="23" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="15" x="336" y="120" width="32" text="50€" measuredWidth="32" measuredHeight="23" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:SearchField" id="18" x="344" y="56" width="24" measuredWidth="24" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="19" x="56" y="142" width="161" text="Smith" measuredWidth="161" measuredHeight="23" state="focused" background="#990000" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="20" x="216" y="142" width="121" text="2002" measuredWidth="121" measuredHeight="23" state="focused" background="#990000" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="21" x="336" y="142" width="41" text="50€" measuredWidth="41" measuredHeight="23" state="focused" background="#990000" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="22" x="56" y="242" width="144" text="Smith" measuredWidth="144" measuredHeight="23" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="23" x="216" y="242" width="88" text="2002" measuredWidth="88" measuredHeight="23" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="24" x="336" y="242" width="41" text="50€" measuredWidth="41" measuredHeight="23" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="25" x="56" y="264" width="161" text="Smith" measuredWidth="161" measuredHeight="23" background="#666666" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="26" x="216" y="264" width="129" text="2002" measuredWidth="129" measuredHeight="23" background="#666666" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="27" x="336" y="264" width="32" text="50€" measuredWidth="32" measuredHeight="23" background="#666666" borderColor="#ffffff">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="28" x="96" y="163" width="272" height="61" text="Red Wine&#xD;&#xA;1st Grand cru Classé&#xD;&#xA;Note 17.5/20" measuredWidth="272" measuredHeight="61" state="focused" background="#990000">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="30" x="288" y="171" height="46" measuredWidth="73" measuredHeight="73"/>
+  <widgets xsi:type="model:VScrollbar" id="32" x="32" y="120" height="209" measuredWidth="17" measuredHeight="209"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
